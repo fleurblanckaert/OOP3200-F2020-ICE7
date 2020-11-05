@@ -1,4 +1,8 @@
-//name: Fleur Blanckaert
+/**
+ * @name FLeur Blanckaert
+ * @date November 4, 2020
+ * @version 0.0.1
+ */
 package ca.durhamcollege;
 
 import static java.lang.System.*;
